@@ -1,0 +1,121 @@
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.exe.config
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.exe
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.pdb
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.exe
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab1\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab1 2D\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 drawing triangle\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab1 2D drawing\For TAs\Graphics Lab1 (Complete Code)\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab2 coloring & primitives\C# Code\multiple primitive TA\Graphics\obj\Debug\Graphics.pdb
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\bin\Debug\Graphics.exe.config
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.exe
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.pdb
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\bin\Debug\Graphics.exe
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\bin\Debug\Graphics.pdb
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+G:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\bin\Debug\Graphics.exe.config
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.exe
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.pdb
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\bin\Debug\Graphics.exe
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\bin\Debug\Graphics.pdb
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+E:\CG'20\Lab2 Primitives _ Coloring\C# Code\multiple primitive Students\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\bin\Debug\Graphics.exe.config
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\obj\Debug\Graphics.exe
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\obj\Debug\Graphics.pdb
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\bin\Debug\Graphics.exe
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\bin\Debug\Graphics.pdb
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Sources\Lab_Manual\Ain Shams Labs\Lab 2\multiple primitive Students\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe.config
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.pdb
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.exe
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.pdb
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe.config
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.exe
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.pdb
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.pdb
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+E:\2023-2024\[1] First Term\[1] Computer Graphics\Labs\CG_Lab(7) OpenGL 2D Drawing Primitives\[0] Practical\CG_Lab(7) OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe.config
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.pdb
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.Up2Date
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.exe
+D:\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.pdb
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.exe
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.pdb
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe.config
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.pdb
+D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.Up2Date

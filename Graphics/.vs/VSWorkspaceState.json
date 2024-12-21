@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin\\Debug",
-    "\\obj\\Debug",
-    "\\obj\\Debug\\TempPE"
+    "\\Shaders"
   ],
+  "SelectedNode": "\\Shaders\\SimpleVertexShader.vertexshader",
   "PreviewInSolutionExplorer": false
 }

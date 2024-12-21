@@ -119,3 +119,14 @@ D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primi
 D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.exe
 D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\bin\Debug\Graphics.pdb
 D:\Faculty\Computer Graphics\Sections\Projects\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\Graphics\obj\Debug\Graphics.csproj.Up2Date
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\bin\Debug\Graphics.exe.config
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\bin\Debug\Graphics.exe
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\bin\Debug\Graphics.pdb
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\obj\Debug\Graphics.csproj.Up2Date
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\obj\Debug\Graphics.exe
+D:\Faculty\Computer Graphics\Projects\CatModel_project\Graphics\obj\Debug\Graphics.pdb

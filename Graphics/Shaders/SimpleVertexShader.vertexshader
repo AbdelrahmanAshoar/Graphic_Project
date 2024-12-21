@@ -1,14 +1,13 @@
 #version 330 core
 
-layout(location = 0) in vec3 vertexPosition; 
-//in: means that this is some input data
+layout(location = 0) in vec3 vertexPosition;
+layout(location = 1) in vec3 vertexColor;
 
-void main(){
+out vec3 fragmentColor;
 
-	//gl_Position is one of the few built-in variables : you have to assign some value to it. 
-	
-    gl_Position.xyz = vertexPosition;
-    gl_Position.w = 1.0; //we will know the 4th coordinates in the next lab (math introduction)
-
+void main() {
+    gl_Position = vec4(vertexPosition, 1.0);
+    fragmentColor = vertexColor;
 }
+
 

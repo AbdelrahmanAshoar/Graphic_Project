@@ -1,13 +1,14 @@
 #version 330 core
 
-// Ouput data
+// Input data from vertex shader
+in vec3 fragmentColor;
+
+// Output data
 out vec3 color;
 
 void main()
 {
-
-	// we set the color of each fragment to red.
-	color = vec3(0,0,0);
-
+    // Set the color of each fragment to the input color
+    color = fragmentColor;
 }
 

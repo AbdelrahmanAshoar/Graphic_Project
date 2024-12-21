@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Faculty\\Computer Graphics\\Sections\\Projects\\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\\Graphics\\",
+  "WorkspaceRootPath": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Faculty\\Computer Graphics\\Sections\\Projects\\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\\Graphics\\Renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Shaders\\SimpleVertexShader.vertexshader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shaders\\SimpleVertexShader.vertexshader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Shaders\\SimpleFragmentShader.fragmentshader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shaders\\SimpleFragmentShader.fragmentshader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Faculty\\Computer Graphics\\Sections\\Projects\\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\\Graphics\\Shaders\\SimpleVertexShader.vertexshader||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shaders\\SimpleVertexShader.vertexshader||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\GraphicsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphicsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Renderer.cs",
-              "DocumentMoniker": "D:\\Faculty\\Computer Graphics\\Sections\\Projects\\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\\Graphics\\Renderer.cs",
-              "RelativeDocumentMoniker": "Renderer.cs",
-              "ToolTip": "D:\\Faculty\\Computer Graphics\\Sections\\Projects\\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\\Graphics\\Renderer.cs",
-              "RelativeToolTip": "Renderer.cs",
-              "ViewState": "AgIAAHQAAAAAZDMzMzPbv4gAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T09:43:08.301Z",
+              "Title": "SimpleVertexShader.vertexshader",
+              "DocumentMoniker": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "RelativeDocumentMoniker": "Shaders\\SimpleVertexShader.vertexshader",
+              "ToolTip": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "RelativeToolTip": "Shaders\\SimpleVertexShader.vertexshader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-21T19:14:07.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SimpleVertexShader.vertexshader",
-              "DocumentMoniker": "D:\\Faculty\\Computer Graphics\\Sections\\Projects\\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\\Graphics\\Shaders\\SimpleVertexShader.vertexshader",
-              "RelativeDocumentMoniker": "Shaders\\SimpleVertexShader.vertexshader",
-              "ToolTip": "D:\\Faculty\\Computer Graphics\\Sections\\Projects\\CG_Lab[9] OpenGL 2D Drawing Primitives (Practical)\\Graphics\\Shaders\\SimpleVertexShader.vertexshader",
-              "RelativeToolTip": "Shaders\\SimpleVertexShader.vertexshader",
+              "Title": "SimpleFragmentShader.fragmentshader",
+              "DocumentMoniker": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "RelativeDocumentMoniker": "Shaders\\SimpleFragmentShader.fragmentshader",
+              "ToolTip": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "RelativeToolTip": "Shaders\\SimpleFragmentShader.fragmentshader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-14T09:36:48.791Z",
+              "WhenOpened": "2024-12-21T19:13:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphicsForm.cs",
+              "DocumentMoniker": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\GraphicsForm.cs",
+              "RelativeDocumentMoniker": "GraphicsForm.cs",
+              "ToolTip": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\GraphicsForm.cs",
+              "RelativeToolTip": "GraphicsForm.cs",
+              "ViewState": "AgIAABUAAAAAHjMzMzPjvxIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:55:57.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Renderer.cs",
+              "RelativeDocumentMoniker": "Renderer.cs",
+              "ToolTip": "D:\\Faculty\\Computer Graphics\\Projects\\CatModel_project\\Graphics\\Renderer.cs",
+              "RelativeToolTip": "Renderer.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAQwAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:43:08.301Z",
               "EditorCaption": ""
             }
           ]
